@@ -24,6 +24,6 @@ axios.interceptors.request.use(config => {
    })
    
 
-axios.defaults.baseURL='https://8080-gray-anaconda-zu06gdet.ws-us21.gitpod.io/spring-loja'
+axios.defaults.baseURL='https://8080-cyan-tern-frbiolxb.ws-us21.gitpod.io/spring-loja'
 
 createApp(App).use(store).use(router).mount('#app')
